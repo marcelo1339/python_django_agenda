@@ -60,7 +60,6 @@ def contact(request, contact_id):
     context = {
         'contact': single_contact,
         'site_title': site_title,
-        'btn_text': 'Delete'
     }
 
     return render(
