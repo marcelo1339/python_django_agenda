@@ -9,6 +9,9 @@ media/
 project/local_settings.py
 exemplo_html.html
 
+# Comandos e manutenção
+comandos/*
+
 # Backup files # 
 *.bak 
 
